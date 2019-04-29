@@ -184,13 +184,13 @@
   .pswp__share-tooltip a {
     display: block;
     padding: 8px 12px;
-    color: #000;
+    color: #f3bf80;
     text-decoration: none;
     font-size: 14px;
     line-height: 18px; }
     .pswp__share-tooltip a:hover {
       text-decoration: none;
-      color: #000; }
+      color: #f3bf80; }
     .pswp__share-tooltip a:first-child {
       /* round corners on the first/last list item */
       border-radius: 2px 2px 0 0; }

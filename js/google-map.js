@@ -139,7 +139,7 @@ function init() {
                 "saturation": 36
             },
             {
-                "color": "#333333"
+                "color": "#f3bf80333"
             },
             {
                 "lightness": 40
